@@ -10,4 +10,4 @@ Non-Python-core dependencies:
 * cartopy
 
 Screenshot of final visualization:
-![Screenshot of visualization](https://github.com/Lumiukko/CyclepathConditionVisualization/blob/main/screenshot.png)
+![Screenshot of visualization](https://github.com/Lumiukko/CyclepathConditionVisualization/blob/main/screnshot.png?raw=true)
